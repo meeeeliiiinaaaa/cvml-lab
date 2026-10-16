@@ -46,7 +46,7 @@ Input Source (Webcam or Offline Image/Video)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sharif-cvml-lab/cvml-lab01-image-filtering.git
+   git clone https://github.com/cvml-lab/cvml-lab01-image-filtering.git
    cd cvml-lab01-image-filtering
    ```
 
