@@ -46,7 +46,7 @@ Input Source (Webcam or Offline Image/Video)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/cvml-lab/cvml-lab01-image-filtering.git
+   git clone https://github.com/meeeeliiiinaaaa/cvml-lab01-image-filtering-main.git
    cd cvml-lab01-image-filtering
    ```
 
@@ -109,7 +109,7 @@ Parameter changes apply immediately, and numeric values are shown next to every 
 ## Repository Structure
 
 ```
-cvml-lab01-image-filtering/
+cvml-lab01-image-filtering-main/
 ├── .gitignore
 ├── Readme.md
 ├── requirements.txt
